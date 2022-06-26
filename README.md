@@ -23,8 +23,8 @@ AWS Resoureces created
 How to
 1. clone this repository
 2. switch to project directory
-3.run the following commands
+3. run the following commands
 terraform init
 terraform apply --auto-approve
 
-terraform destroy 
+to destroy infrastructure : run - terraform destroy 
